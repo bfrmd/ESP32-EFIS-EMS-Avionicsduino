@@ -1,4 +1,4 @@
-// Configuration file for Newhaven NHD-7.0-800480AF-ASXP TFT display
+// LovyanGFX configuration file for Newhaven NHD-7.0-800480AF-ASXP TFT display
 #define LGFX_USE_V1
 #include <LovyanGFX.hpp>
 
