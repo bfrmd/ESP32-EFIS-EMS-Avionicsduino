@@ -1,4 +1,4 @@
-// Config for LGFX_CustomESP32S3_Display
+// Configuration file for Newhaven NHD-7.0-800480AF-ASXP TFT display
 #define LGFX_USE_V1
 #include <LovyanGFX.hpp>
 
